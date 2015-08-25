@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- thẻ data dùng để khai báo nguồn và kiểu dữ liệu -->
+    <data>
+        <variable name="user" type="com.n9xkun.iziroi.databinding.pojo.User"/>
+    </data>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- data-holder dùng cho hiển thị data -->
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="50dp"
+                  android:text="@{user.firstName}"/>
+    </LinearLayout>
+</layout>

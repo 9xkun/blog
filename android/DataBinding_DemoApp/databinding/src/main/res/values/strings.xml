@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+
+    <string-array name="menuitems">
+        <item>SimpleBinding</item>
+        <item>ComplexBinding</item>
+    </string-array>
+
+    <string name="title_activity_simple_binding">SimpleBindingActivity</string>
+</resources>
