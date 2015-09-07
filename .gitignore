@@ -8,3 +8,4 @@ build/
 gradle/
 gen/
 *.iml
+local.properties
