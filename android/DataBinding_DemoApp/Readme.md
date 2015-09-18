@@ -9,7 +9,7 @@ Import vào Android Studio.
 
 Tải file apk: https://github.com/hoangpt/techandbas.i15/raw/master/Tutor0201.i_helloworld/apk/Tutor0201.i_helloworld.apk
 
-![](https://raw.githubusercontent.com/hoangpt/techandbas.i15/master/Tutor0201.i_helloworld/apk/Tutor0201.i_helloandroid.gif)
+![](https://raw.githubusercontent.com/hoangpt/techandbas.i15/master/Tutor0201_helloworld/apk/Tutor0201_helloandroid.gif)
 
 ## Chú ý
 Mọi người có thể tới link này để tham khảo toàn bộ thư viện DataBinding
