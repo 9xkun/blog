@@ -6,7 +6,7 @@ Thư mục apk chứa file chạy, mọi người kéo vào thiết bị và tr�
 
 Còn nếu lười nữa thì mọi người chơi thử app trên web:
 
-<iframe src="https://appetize.io/embed/<PUBLIC KEY>?device=nexus5&scale=100&autoplay=false&orientation=portrait&deviceColor=black" width="400px" height="795px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://appetize.io/embed/w181623et3kb483qj28xk5a0t4?device=nexus5&scale=75&autoplay=false&orientation=portrait&deviceColor=black" width="300px" height="597px" frameborder="0" scrolling="no"></iframe>
 
 ## Setup
 Import vào Android Studio.
