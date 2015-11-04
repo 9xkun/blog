@@ -1,7 +1,7 @@
-Demo app cho thư viện DataBinding mới của Google.
+Demo app cho Google DataBinding lib
 ==========================
 Demo databinding trên blog của Techmaster.
-![](https://raw.githubusercontent.com/9xkun/blog/master/android/DataBinding_DemoApp/apk/DataBinding_DemoApp.gif)
+<br/> ![](https://raw.githubusercontent.com/9xkun/blog/master/android/DataBinding_DemoApp/apk/DataBinding_DemoApp.gif)
 
 Thư mục apk chứa file chạy, mọi người kéo vào thiết bị và trải nghiệm app hoạt động thế nào nhé.
 <br/> Apk file: https://github.com/9xkun/blog/raw/master/android/DataBinding_DemoApp/apk/databinding-debug.apk
