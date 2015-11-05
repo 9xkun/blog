@@ -5,5 +5,5 @@ Bạn đã biết gì về thế giới của Web? Bạn đã bao giờ nghe t�
 
 Hãy cùng vững bước tiến vào Web World và trở thành một chiến binh gik thần thánh. ^^
 
-![](https://raw.githubusercontent.com/9xkun/blog/master/android/web.jpg)
+![](https://raw.githubusercontent.com/9xkun/blog/master/web/web.jpg)
 
